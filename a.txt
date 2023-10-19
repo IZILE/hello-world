@@ -1,4 +1,4 @@
-c void doSomething() {
+public void doSomething() {
     // master and testing code
 }
 
