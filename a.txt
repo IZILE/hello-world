@@ -1,4 +1,4 @@
 public void doSomething() {
-    // master code
+    // master and testing code
 }
 
